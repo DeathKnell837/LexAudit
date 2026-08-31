@@ -4,8 +4,8 @@ LexAudit is a multi-agent system designed for automated, high-fidelity contract 
 
 A beautiful, interactive web dashboard provides real-time visualization of the agent communication, dynamic audit logs, contract visual highlighting, and historical audits.
 
-* **Live Dashboard (Vercel):** [lexaudit-seven.vercel.app](https://lexaudit-seven.vercel.app/)
-* **Backend Endpoint (Render):** [lexaudit-wfmf.onrender.com](https://lexaudit-wfmf.onrender.com)
+* **Architecture:** Multi-Agent Coordination via Band Platform
+* **Deployment Mode:** Standalone Python Backend & Web Dashboard (scripts/combined_server.py)
 
 ---
 
